@@ -96,7 +96,7 @@ category:
 * [Promise 必知必会（十道题）](https://juejin.im/post/5a04066351882517c416715d)
 * [BAT前端经典面试问题：史上最最最详细的手写Promise教程](https://juejin.im/post/5b2f02cd5188252b937548ab#heading-9)
 
-```text
+```javascript
 async function async1() {
     console.log('async1 start');
     await async2();
