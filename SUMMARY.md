@@ -12,19 +12,28 @@
   * [说一说有多少种水平垂直居中方案](css/shuo-yi-shuo-you-duo-shao-zhong-shui-ping-chui-zhi-ju-zhong-fang-an.md)
   * [画一个三角形？](css/hua-yi-ge-san-jiao-xing.md)
 * [JavaScript](javascript/README.md)
+  * [JavaScript 的数据类型与操作符](javascript/javascript-de-shu-ju-lei-xing-yu-cao-zuo-fu.md)
   * [undefinde 和 null 有什么区别？](javascript/undefinde-he-null-you-shen-me-qu-bie.md)
-* [TypeScript：进入类型的世界](typescript.md)
+  * [JavaScript 的组成](javascript/javascript-de-zu-cheng.md)
+  * [script 元素与 DOM 数构建的阻塞](javascript/script-yuan-su-yu-dom-shu-gou-jian-de-zu-sai.md)
+* [TypeScript](typescript-1/README.md)
+  * [TypeScript：进入类型的世界](typescript-1/typescript.md)
+* [浏览器](liu-lan-qi/README.md)
+  * [浏览器安全漫谈](liu-lan-qi/liu-lan-qi-an-quan-man-tan.md)
+  * [浏览器是如何存储数据与回收垃圾的 ？](liu-lan-qi/liu-lan-qi-shi-ru-he-cun-chu-shu-ju-yu-hui-shou-la-ji-de.md)
 
 ## 计算机网络
 
 ---
 
-* [iptables & 防火墙 基础知识](iptables-fang-huo-qiang-ji-chu-zhi-shi.md)
 * [HTTP](http/README.md)
   * [缓存](http/huan-cun.md)
 * [TCP/IP](tcp-ip/README.md)
+  * [一个数据包的旅行——从浏览器到操作系统](tcp-ip/yi-ge-shu-ju-bao-de-lv-hang-cong-liu-lan-qi-dao-cao-zuo-xi-tong.md)
   * [可靠性保证](tcp-ip/ke-kao-xing-bao-zheng.md)
   * [拥塞控制](tcp-ip/yong-sai-kong-zhi.md)
+* [防火墙](fang-huo-qiang/README.md)
+  * [iptables & 防火墙 基础知识](fang-huo-qiang/iptables-fang-huo-qiang-ji-chu-zhi-shi.md)
 
 ## 网络安全
 
@@ -34,8 +43,13 @@
 ## 算法
 
 * [排序](suan-fa/pai-xu.md)
+* [手摸手零基础入门算法-什么是大O表示法 ？](suan-fa/shou-mo-shou-ling-ji-chu-ru-men-suan-fa-shen-me-shi-daobiao-shi-fa.md)
+
+## 区块链
+
+* [比特币——一种基于 P2P 网络的支付结算系统](qu-kuai-lian/bi-te-bi-yi-zhong-ji-yu-p2p-wang-luo-de-zhi-fu-jie-suan-xi-tong.md)
 
 ## 随心所欲
 
-* [摘抄](sui-xin-suo-yu/zhai-chao.md)
+* [半年度总结](sui-xin-suo-yu/ban-nian-du-zong-jie.md)
 
