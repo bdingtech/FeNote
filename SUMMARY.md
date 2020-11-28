@@ -49,6 +49,12 @@
 
 * [比特币——一种基于 P2P 网络的支付结算系统](qu-kuai-lian/bi-te-bi-yi-zhong-ji-yu-p2p-wang-luo-de-zhi-fu-jie-suan-xi-tong.md)
 
+## 前端相对论 <a id="qian-duan-fang-fa-lun"></a>
+
+* [2020 年前端面试复习](qian-duan-fang-fa-lun/2020-nian-qian-duan-mian-shi-fu-xi.md)
+* [前端菜鸡的自我修养](qian-duan-fang-fa-lun/qian-duan-cai-ji-de-zi-wo-xiu-yang.md)
+* [前端职业规划——写给年轻的前端韭菜们](qian-duan-fang-fa-lun/qian-duan-zhi-ye-gui-hua-xie-gei-nian-qing-de-qian-duan-jiu-cai-men.md)
+
 ## 随心所欲
 
 * [半年度总结](sui-xin-suo-yu/ban-nian-du-zong-jie.md)
