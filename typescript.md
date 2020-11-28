@@ -1,9 +1,10 @@
 ---
 description: >-
-  TypeScript是JavaScript类型的超集，它可以编译成纯JavaScript。TypeScript可以在任何浏览器、任何计算机和任何操作系统上运行，并且是开源的。
+  TypeScript 是JavaScript 类型的超集，它可以编译成纯 JavaScript。TypeScript
+  可以在任何浏览器、任何计算机和任何操作系统上运行，并且是开源的。
 ---
 
-# TypeScript
+# TypeScript：进入类型的世界
 
 ## 基本用法
 
@@ -37,7 +38,7 @@ notSure = true
 
 ###  定义数组数据类型
 
-> [数组](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)是一种使用整数作为键\(integer-key-ed\)属性和长度\(length\)属性之间关联的常规**对象**。——MDN
+[数组](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)是一种使用整数作为键\(integer-key-ed\)属性和长度\(length\)属性之间关联的常规**对象**。——MDN
 
 ```typescript
 let arr:number[] = [1,2]
@@ -48,7 +49,7 @@ arr.push(3)//push 进去的值也需要满足定义
 
 ### 定义对象数据类型
 
-> 使用 接口 （ interface ）来对对象的形状（ shape ）来进行描述，可以规定对象长什么样子，如果有不同的话则报错
+使用 接口 （ interface ）来对对象的形状（ shape ）来进行描述，可以规定对象长什么样子，如果有不同的话则报错
 
 ```typescript
 interface Person{
@@ -73,7 +74,7 @@ function add(x:number,y:number){
 
 ###  联合类型（ Union types ）和类型断言
 
-> 在联合属性中只能访问所定义类型共有的方法，否则将会报错
+在联合属性中只能访问所定义类型共有的方法，否则将会报错
 
 ```typescript
 let numberOrstring: string | number
@@ -84,7 +85,7 @@ numberOrstring.length()
 numberOrstring.toString()
 ```
 
-> 使用**类型断言**可以突破这种限制
+使用**类型断言**可以突破这种限制
 
 ```typescript
 function  getLength(input:string | number): number{
@@ -97,5 +98,44 @@ function  getLength(input:string | number): number{
         return number.toString().length
     }
 }
+```
+
+###  枚举类型
+
+如 TypeScript 官方文档所说，枚举类型是对 JavaScript 标准数据类型集的扩充。对于熟悉 C\# 的开发者来说，枚举类型并不陌生，它能够给一系列数值集合提供友好的名称，也就是说枚举表示的是一个命名元素的集合，因而它能够使您的程序避免因硬编码的值而显杂乱且难以维护
+
+```typescript
+enum Days {Sun, Mon, Tue, Wed, Thu, Fri, Sat};
+
+console.log(Days["Sun"] === 0); // true
+console.log(Days["Mon"] === 1); // true
+console.log(Days["Tue"] === 2); // true
+console.log(Days["Sat"] === 6); // true
+
+console.log(Days[0] === "Sun"); // true
+console.log(Days[1] === "Mon"); // true
+console.log(Days[2] === "Tue"); // true
+console.log(Days[6] === "Sat"); // true
+```
+
+## 高级用法
+
+###  泛型（ generics ）
+
+就是将所需要传入的类型变成一个参数，该参数可在使用中定义
+
+```typescript
+// 传统函数
+function myfn(x: number):number {
+    return x
+}
+
+// 泛类函数,T可以更改为其他值
+function myfn<T>(x: T):T {
+    return x;
+}
+// 调用
+myfn<number>(1)
+myfn(true)
 ```
 

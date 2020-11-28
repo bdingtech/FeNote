@@ -13,7 +13,7 @@
   * [画一个三角形？](css/hua-yi-ge-san-jiao-xing.md)
 * [JavaScript](javascript/README.md)
   * [undefinde 和 null 有什么区别？](javascript/undefinde-he-null-you-shen-me-qu-bie.md)
-* [TypeScript](typescript.md)
+* [TypeScript：进入类型的世界](typescript.md)
 
 ## 计算机网络
 
