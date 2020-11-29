@@ -12,23 +12,61 @@ tags:
 
 面试官：说一说`javascript`中有哪些数据类型?
 
-`JavaScript` 中共有七种内置数据类型，包括**基本类型**和**对象类型**。
+最新的 `ECMAScript` 标准定义了 8 种数据类型:，包括**基本类型**和**引用类型**。（ [以MDN为准](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures) ）
 
-### 基本类型
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">&#x9879;&#x76EE;</th>
+      <th style="text-align:center">&#x57FA;&#x672C;&#x7C7B;&#x578B;</th>
+      <th style="text-align:center">&#x5F15;&#x7528;&#x7C7B;&#x578B;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x503C;</td>
+      <td style="text-align:center">Number&#x3001;String&#x3001;Null&#x3001;Undefind&#x3001;BigInt&#x3001;Symbols&#x3001;Boolean</td>
+      <td
+      style="text-align:center">Object</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x5B58;&#x50A8;&#x65B9;&#x5F0F;</td>
+      <td style="text-align:center">&#x6808;&#x5185;&#x5B58;</td>
+      <td style="text-align:center">&#x5806;&#x5185;&#x5B58;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x5B58;&#x50A8;&#x503C;</td>
+      <td style="text-align:center">
+        <p>&#x65B0;&#x7684;&#x53D8;&#x91CF;</p>
+        <p>&#x53D8;&#x91CF;&#x6709;&#x81EA;&#x5DF1;&#x7684;&#x503C;</p>
+      </td>
+      <td style="text-align:center">
+        <p>&#x6307;&#x9488;</p>
+        <p>&#x6307;&#x5411;&#x5806;&#x5185;&#x5B58;&#x4E2D;&#x8BE5;&#x5BF9;&#x8C61;&#x7684;&#x5B58;&#x50A8;&#x5730;&#x5740;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-基本类型分为以下七种：
+![   &#x57FA;&#x672C;&#x7C7B;&#x578B;&#x7684;&#x5B58;&#x50A8;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%282%29.png)
 
-* 布尔值（Boolean），有2个值分别是：`true` 和 `false`.
-* null ， 一个表明 null 值的特殊关键字。 JavaScript 是大小写敏感的，因此 `null` 与 `Null`、`NULL`或变体完全不同。
-* undefined ，和 null 一样是一个特殊的关键字，undefined 表示变量未定义时的属性。
-* 数字（Number），整数或浮点数，例如： `42` 或者 `3.14159`。
-* 任意精度的整数 \(BigInt\) ，可以安全地存储和操作大整数，甚至可以超过数字的安全整数限制。
-* 字符串（String），字符串是一串表示文本值的字符序列，例如："Howdy" 。
-* 代表（Symbol） \( 在 ECMAScript 6 中新添加的类型\).。一种实例是唯一且不可改变的数据类型。
+![&#x5F15;&#x7528;&#x7C7B;&#x578B;&#x7684;&#x5B58;&#x50A8;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%283%29.png)
 
-引用类型为一种
 
-* 对象（Object）
+
+**基本类型**分为以下八种：
+
+* 布尔值（**Boolean**），有2个值分别是：`true` 和 `false`.
+* **null** ， 一个表明 null 值的特殊关键字。 JavaScript 是大小写敏感的，因此 `null` 与 `Null`、`NULL`或变体完全不同。
+* **undefined** ，和 null 一样是一个特殊的关键字，undefined 表示变量未定义时的属性。
+* 数字（**Number**），整数或浮点数，例如： `42` 或者 `3.14159`。
+* 任意精度的整数 \(**BigInt**\) ，可以安全地存储和操作大整数，甚至可以超过数字的安全整数限制。
+* 字符串（**String**），字符串是一串表示文本值的字符序列，例如："Howdy" 。
+* 代表（**Symbol**） \( 在 ECMAScript 6 中新添加的类型\).。一种实例是唯一且不可改变的数据类型。
+
+`引用类型`为一种
+
+* 对象（**Object**）
 
 **注意**：
 

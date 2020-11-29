@@ -12,6 +12,8 @@
   * [说一说有多少种水平垂直居中方案](css/shuo-yi-shuo-you-duo-shao-zhong-shui-ping-chui-zhi-ju-zhong-fang-an.md)
   * [画一个三角形？](css/hua-yi-ge-san-jiao-xing.md)
 * [JavaScript](javascript/README.md)
+  * [为什么 {} !== {} ?](javascript/wei-shen-me.md)
+  * [如何判断对象为空 ？](javascript/ru-he-pan-duan-dui-xiang-wei-kong.md)
   * [JavaScript 的数据类型与操作符](javascript/javascript-de-shu-ju-lei-xing-yu-cao-zuo-fu.md)
   * [undefinde 和 null 有什么区别？](javascript/undefinde-he-null-you-shen-me-qu-bie.md)
   * [JavaScript 的组成](javascript/javascript-de-zu-cheng.md)
