@@ -12,6 +12,8 @@ description: 这个问题困扰了我很久，虽然以前去查过，但是现�
 2. 每次执行匿名函数都支持三个参数，分别是 item（ 当前的数组项 ）、index（ 索引值 ）、arr（ 原数组 ）
 3. 匿名函数的 this 都是指向 window
 4. 只能便利数组
+5. 都不修改调用它的原数组本身（**当然可以在 `callback` 执行时改变原数组**）
+6. 除了抛出异常外，没有办法终止或者跳出循环
 
 ### 不同点
 
@@ -29,4 +31,13 @@ MDN 给出的最佳实践为
 
 1. 不打算返回新数组
 2. 没有从回调函数中返回值
+
+ 需要提前终止或者跳出循环的情况不建议使用一下方法
+
+* 一个简单的 [for](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for) 循环
+* [for...of](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for...of) / [for...in](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/for...in) 循环
+* [`Array.prototype.every()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
+* [`Array.prototype.some()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/some)
+* [`Array.prototype.find()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+* [`Array.prototype.findIndex()`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
 
