@@ -10,13 +10,13 @@ description: 虽然作为前端菜鸡的我在平时写项目中的时候还没�
 
 ###  for...in
 
-![MDN &#x4E0A;&#x5BF9; for...in &#x7684;&#x5B9A;&#x4E49;](../.gitbook/assets/image%20%287%29.png)
+![MDN &#x4E0A;&#x5BF9; for...in &#x7684;&#x5B9A;&#x4E49;](../.gitbook/assets/image%20%288%29.png)
 
 ###  for...of
 
 **`for...of`语句**在[可迭代对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/iterable)（包括 [`Array`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Array)，[`Map`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Map)，[`Set`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Set)，[`String`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/String)，[`TypedArray`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/TypedArray)，[arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/arguments) 对象等等）上创建一个迭代循环，调用自定义迭代钩子，并为每个不同属性的值执行语句
 
-![MDN &#x4E0A;&#x5BF9; for..of &#x7684;&#x5B9A;&#x4E49;](../.gitbook/assets/image%20%2811%29.png)
+![MDN &#x4E0A;&#x5BF9; for..of &#x7684;&#x5B9A;&#x4E49;](../.gitbook/assets/image%20%2812%29.png)
 
 ##  区别
 
@@ -32,7 +32,7 @@ description: 虽然作为前端菜鸡的我在平时写项目中的时候还没�
 
  可以看到 for...in 所得到的值为字符串型，不能作为几何运算
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ###  for...in 会遍历数组所有的可枚举属性，包括原型
 

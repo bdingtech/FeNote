@@ -90,5 +90,7 @@ for(item of arr){
 }
 ```
 
-### 
+{% hint style="success" %}
+推荐 ！优点是在优雅的同时可以支持跳出循环
+{% endhint %}
 
