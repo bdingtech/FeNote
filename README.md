@@ -22,6 +22,10 @@ description: 关于技术、机器、战争、时间、性、宗教、文学
 
 笔记内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md) 进行排版，以保证内容的可读性。
 
+## 联系我
+
+对本书有任何疑问，欢迎联系我。
+
 ## 版权许可
 
 ![](.gitbook/assets/image%20%287%29.png)
