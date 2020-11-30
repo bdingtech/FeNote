@@ -65,9 +65,30 @@ arr.map(item => {
 当不需要返回新数组时，使用 forEach 才是最佳实践
 {% endhint %}
 
-### for...of
+### for...of（ ES6 ）
 
 MDN 给出的定义为
 
 > **`for...of`语句**在[可迭代对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/iterable)（包括 [`Array`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Array)，[`Map`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Map)，[`Set`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Set)，[`String`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/String)，[`TypedArray`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/TypedArray)，[arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/arguments) 对象等等）上创建一个迭代循环，调用自定义迭代钩子，并为每个不同属性的值执行语句
+
+####  语法
+
+```javascript
+for (variable of iterable) {
+    statement
+}
+//variable：每个迭代的属性值被分配给该变量。
+//iterable：一个具有可枚举属性并且可以迭代的对象。实例
+```
+
+####  实例
+
+```javascript
+let arr = [1,2,3,4]
+for(item of arr){
+    console.log(item)
+}
+```
+
+### 
 

@@ -1,4 +1,10 @@
+---
+description: 关于技术、机器、战争、时间、性、宗教、文学
+---
+
 # 前言
+
+![](.gitbook/assets/mo-ren-biao-ti-gong-zhong-hao-feng-mian-shou-tu-202011300.png)
 
 ### 简介
 
