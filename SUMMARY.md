@@ -12,6 +12,8 @@
   * [说一说有多少种水平垂直居中方案](css/shuo-yi-shuo-you-duo-shao-zhong-shui-ping-chui-zhi-ju-zhong-fang-an.md)
   * [画一个三角形？](css/hua-yi-ge-san-jiao-xing.md)
 * [JavaScript](javascript/README.md)
+  * [forEach 和 map 的区别](javascript/foreach-he-map-de-qu-bie.md)
+  * [数组的遍历以及对象的遍历](javascript/shu-zu-de-bian-li-yi-ji-dui-xiang-de-bian-li.md)
   * [为什么 {} !== {} ?](javascript/wei-shen-me.md)
   * [如何判断对象为空 ？](javascript/ru-he-pan-duan-dui-xiang-wei-kong.md)
   * [JavaScript 的数据类型与操作符](javascript/javascript-de-shu-ju-lei-xing-yu-cao-zuo-fu.md)
