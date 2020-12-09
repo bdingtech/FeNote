@@ -64,4 +64,5 @@
 
 * [半年度总结](sui-xin-suo-yu/ban-nian-du-zong-jie.md)
 * [地球最后的夜晚](sui-xin-suo-yu/di-qiu-zui-hou-de-ye-wan.md)
+* [项目流程管理与控制](sui-xin-suo-yu/xiang-mu-liu-cheng-guan-li-yu-kong-zhi.md)
 
