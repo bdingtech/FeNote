@@ -66,3 +66,7 @@
 * [地球最后的夜晚](sui-xin-suo-yu/di-qiu-zui-hou-de-ye-wan.md)
 * [项目流程管理与控制](sui-xin-suo-yu/xiang-mu-liu-cheng-guan-li-yu-kong-zhi.md)
 
+---
+
+* [ID / IC 卡基本原理介绍与门禁卡 DIY](id-ic-ka-ji-ben-yuan-li-jie-shao-yu-men-jin-ka-diy.md)
+
