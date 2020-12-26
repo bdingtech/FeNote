@@ -12,6 +12,7 @@
   * [说一说有多少种水平垂直居中方案](css/shuo-yi-shuo-you-duo-shao-zhong-shui-ping-chui-zhi-ju-zhong-fang-an.md)
   * [画一个三角形？](css/hua-yi-ge-san-jiao-xing.md)
 * [JavaScript](javascript/README.md)
+  * [原型与原型链](javascript/yuan-xing-yu-yuan-xing-lian.md)
   * [for...in 和 for...of 有什么区别？](javascript/for...in-he-for...of-you-shen-me-qu-bie.md)
   * [forEach 和 map 的区别](javascript/foreach-he-map-de-qu-bie.md)
   * [常用数组遍历和对象遍历方法](javascript/shu-zu-de-bian-li-yi-ji-dui-xiang-de-bian-li.md)
