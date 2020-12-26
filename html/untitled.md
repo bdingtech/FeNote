@@ -17,13 +17,13 @@ description: >-
 
 ###  **新增内容**
 
-* &lt;header&gt;: 头部标签
-* &lt;nav&gt;：导航标签
-* &lt;main&gt;：主体标签
-* &lt;article&gt;：独立的内容标签
-* &lt;section&gt;：区段标签
-* &lt;aside&gt;：侧边栏标签
-* &lt;footer&gt;：尾部标签
+* `<header>`: 头部标签
+* `<nav>`：导航标签
+* `<main>`：主体标签
+* `<article>`：独立的内容标签
+* `<section>`：区段标签
+* `<aside>`：侧边栏标签
+* `<footer>`：尾部标签
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
