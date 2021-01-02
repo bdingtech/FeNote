@@ -61,6 +61,7 @@
 * [2020 年前端面试复习](qian-duan-fang-fa-lun/2020-nian-qian-duan-mian-shi-fu-xi.md)
 * [前端菜鸡的自我修养](qian-duan-fang-fa-lun/qian-duan-cai-ji-de-zi-wo-xiu-yang.md)
 * [前端职业规划——写给年轻的前端韭菜们](qian-duan-fang-fa-lun/qian-duan-zhi-ye-gui-hua-xie-gei-nian-qing-de-qian-duan-jiu-cai-men.md)
+* [STAR 原则](qian-duan-fang-fa-lun/star-yuan-ze.md)
 
 ## 随心所欲
 
@@ -71,4 +72,8 @@
 ---
 
 * [ID / IC 卡基本原理介绍与门禁卡 DIY](id-ic-ka-ji-ben-yuan-li-jie-shao-yu-men-jin-ka-diy.md)
+
+## 公众号 & 博客推荐
+
+* [知名前端人物](gong-zhong-hao-bo-ke-tui-jian/zhi-ming-qian-duan-ren-wu.md)
 
