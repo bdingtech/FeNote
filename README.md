@@ -16,6 +16,14 @@ description: 关于技术、机器、战争、时间、性、宗教、文学
 
 我给这本 Gitbook 小书的定位为`笔记类`，主要是用建立起自己的知识体系，同时记录一些小的点，便于日后的回顾与思考。
 
+## 推荐
+
+{% page-ref page="qian-duan-fang-fa-lun/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md" %}
+
+{% page-ref page="css/he-mo-xing-na-xie-shi.md" %}
+
+{% page-ref page="javascript/javascript-de-shu-ju-lei-xing-yu-cao-zuo-fu.md" %}
+
 ##  想法
 
  热爱生活，信仰技术
