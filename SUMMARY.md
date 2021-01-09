@@ -38,15 +38,10 @@
 
 ---
 
-* [内网](nei-wang/README.md)
-  * [内网穿透神器 ZeroTier 使用教程](nei-wang/nei-wang-chuan-tou-shen-qi-zerotier-shi-yong-jiao-cheng.md)
-* [HTTP](http/README.md)
-  * [缓存](http/huan-cun.md)
-* [TCP/IP](tcp-ip/README.md)
-  * [一个数据包的旅行——从浏览器到操作系统](tcp-ip/yi-ge-shu-ju-bao-de-lv-hang-cong-liu-lan-qi-dao-cao-zuo-xi-tong.md)
-* [防火墙](fang-huo-qiang/README.md)
-  * [iptables & 防火墙 基础知识](fang-huo-qiang/iptables-fang-huo-qiang-ji-chu-zhi-shi.md)
+* [iptables & 防火墙 基础知识](iptables-fang-huo-qiang-ji-chu-zhi-shi.md)
+* [一个数据包的旅行——从浏览器到操作系统](yi-ge-shu-ju-bao-de-lv-hang-cong-liu-lan-qi-dao-cao-zuo-xi-tong.md)
 * [进击吧！5G!](5g.md)
+* [内网穿透神器 ZeroTier 使用教程](nei-wang-chuan-tou-shen-qi-zerotier-shi-yong-jiao-cheng.md)
 
 ## 算法
 

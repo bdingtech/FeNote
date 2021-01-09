@@ -6,9 +6,9 @@ description: >-
 
 # iptables & 防火墙 基础知识
 
-![IPTables Table, Chain, and Rule Structure](../.gitbook/assets/image.png)
+![IPTables Table, Chain, and Rule Structure](.gitbook/assets/image.png)
 
-![iptables &#x7684;&#x7ED3;&#x6784;](../.gitbook/assets/image%20%281%29.png)
+![iptables &#x7684;&#x7ED3;&#x6784;](.gitbook/assets/image%20%281%29.png)
 
 ## **一、iptables 的表与链**
 
