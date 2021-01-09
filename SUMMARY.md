@@ -44,8 +44,6 @@
   * [缓存](http/huan-cun.md)
 * [TCP/IP](tcp-ip/README.md)
   * [一个数据包的旅行——从浏览器到操作系统](tcp-ip/yi-ge-shu-ju-bao-de-lv-hang-cong-liu-lan-qi-dao-cao-zuo-xi-tong.md)
-  * [可靠性保证](tcp-ip/ke-kao-xing-bao-zheng.md)
-  * [拥塞控制](tcp-ip/yong-sai-kong-zhi.md)
 * [防火墙](fang-huo-qiang/README.md)
   * [iptables & 防火墙 基础知识](fang-huo-qiang/iptables-fang-huo-qiang-ji-chu-zhi-shi.md)
 
