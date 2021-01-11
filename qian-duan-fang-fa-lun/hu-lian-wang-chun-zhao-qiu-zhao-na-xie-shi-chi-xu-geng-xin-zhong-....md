@@ -120,6 +120,7 @@ description: 自己准备实习梳理的一些点，希望能帮到你
 | **JD（ Job Description ）** | 职位详情**、**职位描述，包括职位的职责范围和要求 |
 | **HC \( Head Count \)** | 某个职位的招聘人数 |
 | **OC（ Offer Call ）** | HR 打来电话告知面试通过，给口头 offer |
+| **WLB（ Work–Life Balance ）** | work–life balance \(工作与生活的平衡\) |
 
 
 
