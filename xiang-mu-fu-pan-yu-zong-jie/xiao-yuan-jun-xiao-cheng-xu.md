@@ -10,7 +10,7 @@
 
  小程序使用 uniapp 在之前 web 端 v1.0 的基础上进行了重构与优化，将所有功能都小程序化，并新增了“校园广场”模块，将数万用户通过校园社交所连接起来，在享受便捷教务的同时，也可与全校园内的校友分享自己的生活动态
 
-### ⚡ 采用技术栈
+### ⚡ 技术栈
 
 * 前端框架
 
@@ -41,15 +41,15 @@
 
 本项目UI设计基于[UUIA小程序](https://github.com/uuia/UUIA-Mini-APP)，以及[Vant组件库](https://youzan.github.io/vant/#/zh-CN/intro)，采用VUE语法重构，还原了小程序在web端的页面效果，搭配Vue-router实现了单页面应用，流畅度和用户体验有了极大的提高。打包程序采用Webpack，开启了Gzip压缩，减小包体积；实现了路由懒加载，缩短了首屏加载速度；开启代码混淆以及去掉了console.log的输出，防止他人盗用源码
 
-### ⚡ 采用技术栈
+### ⚡ 技术栈
 
 * 前端框架
 
-  Vue、Vue-router
+  `Vue`、`Vue-router`
 
 * UI库
 
-  Vant
+  `Vant`
 
 ### 🎨 主要界面
 
