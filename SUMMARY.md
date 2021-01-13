@@ -73,5 +73,5 @@
 
 ## 项目复盘与总结
 
-* [校园菌小程序](xiang-mu-fu-pan-yu-zong-jie/xiao-yuan-jun-xiao-cheng-xu.md)
+* [校园菌小程序「持续更新中...」](xiang-mu-fu-pan-yu-zong-jie/xiao-yuan-jun-xiao-cheng-xu.md)
 
