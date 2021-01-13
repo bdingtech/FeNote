@@ -37,6 +37,8 @@
 
 ### 🎨 主要界面
 
+**待补充**
+
 ## 科大校园菌 v1.0 \( 公众号 \) \( 已重构成小程序 \)
 
 本项目UI设计基于[UUIA小程序](https://github.com/uuia/UUIA-Mini-APP)，以及[Vant组件库](https://youzan.github.io/vant/#/zh-CN/intro)，采用VUE语法重构，还原了小程序在web端的页面效果，搭配Vue-router实现了单页面应用，流畅度和用户体验有了极大的提高。打包程序采用Webpack，开启了Gzip压缩，减小包体积；实现了路由懒加载，缩短了首屏加载速度；开启代码混淆以及去掉了console.log的输出，防止他人盗用源码
