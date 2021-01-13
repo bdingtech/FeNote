@@ -10,32 +10,32 @@
 
  小程序使用 uniapp 在之前 web 端 v1.0 的基础上进行了重构与优化，将所有功能都小程序化，并新增了“校园广场”模块，将数万用户通过校园社交所连接起来，在享受便捷教务的同时，也可与全校园内的校友分享自己的生活动态
 
-#### ⚡ 采用技术栈
+### ⚡ 采用技术栈
 
 * 前端框架
 
-  Vue、Vuex、Uniapp
+  `Vue`、`Vuex`、`Uniapp`
 
 * 预处理器
 
-  SCSS、Less
+  `Scss`、`Less`
 
 * UI库
 
-  **部分页面 UI 借鉴在武大、in桂工，在此向项目开发者表示感谢与歉意！**
+  **部分页面 UI 借鉴`在武大`、`in桂工`，在此向项目开发者表示感谢与歉意！**
 
-  colorUI 、uview-ui
+  `colorUI` 、`uview-ui`
 
 * 工具库
 
-  luch-request 、qiniu（ 七牛SDK ）、 uview-ui
+  `luch-request` 、`qiniu`（ 七牛SDK ）、 `uview-ui`
 
 * 自定义库函数
-  1. 人性化时间显示 timeFormat
-  2. 数组去重 unique
-  3. 文件上传（ 基于七牛SDK ） fileUpload
+  1. 人性化时间显示 `timeFormat`
+  2. 数组去重 `unique`
+  3. 文件上传（ 基于七牛SDK ） `fileUpload`
 
-#### 🎨 主要界面
+### 🎨 主要界面
 
 ## 科大校园菌 v1.0 \( 公众号 \) \( 已重构成小程序 \)
 
