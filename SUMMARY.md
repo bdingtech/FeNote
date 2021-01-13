@@ -65,12 +65,13 @@
 * [半年度总结](sui-xin-suo-yu/ban-nian-du-zong-jie.md)
 * [地球最后的夜晚](sui-xin-suo-yu/di-qiu-zui-hou-de-ye-wan.md)
 * [构建规范的前端工作流与生态体系](sui-xin-suo-yu/xiang-mu-liu-cheng-guan-li-yu-kong-zhi.md)
-
----
-
-* [ID / IC 卡基本原理介绍与门禁卡 DIY](id-ic-ka-ji-ben-yuan-li-jie-shao-yu-men-jin-ka-diy.md)
+* [ID / IC 卡基本原理介绍与门禁卡 DIY](sui-xin-suo-yu/id-ic-ka-ji-ben-yuan-li-jie-shao-yu-men-jin-ka-diy.md)
 
 ## 公众号 & 博客推荐
 
 * [知名前端人物](gong-zhong-hao-bo-ke-tui-jian/zhi-ming-qian-duan-ren-wu.md)
+
+## 项目复盘与总结
+
+* [校园菌小程序](xiang-mu-fu-pan-yu-zong-jie/xiao-yuan-jun-xiao-cheng-xu.md)
 
