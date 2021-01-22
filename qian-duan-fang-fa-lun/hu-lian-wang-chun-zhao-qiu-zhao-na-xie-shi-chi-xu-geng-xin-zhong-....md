@@ -276,4 +276,5 @@ description: 自己准备实习梳理的一些点，希望能帮到你
 * [阿里淘系-暑期实习前端面经](https://www.nowcoder.com/discuss/415182?source_id=profile_create_nctrack&channel=-1)
 * [互联网校招薪酬大起底，今年BAT大厂哪家更香？](https://mp.weixin.qq.com/s/_XhxtnLEgbrEuZzbyxZfeg)
 * [2020 年校招，最值得加入的互联网公司有哪些？](https://www.zhihu.com/question/305664270/answer/777485367)
+* \*\*\*\*[俯冲春招\|如何做好春招准备和工作的建议](https://juejin.cn/post/6844904069778112525)
 
