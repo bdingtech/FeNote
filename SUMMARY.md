@@ -59,6 +59,7 @@
 * [前端职业规划——写给年轻的前端韭菜们](qian-duan-fang-fa-lun/qian-duan-zhi-ye-gui-hua-xie-gei-nian-qing-de-qian-duan-jiu-cai-men.md)
 * [STAR 原则](qian-duan-fang-fa-lun/star-yuan-ze.md)
 * [2021互联网春招秋招那些事 持续更新中...](qian-duan-fang-fa-lun/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md)
+* [2021前端进击方法论](qian-duan-fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md)
 
 ## 随心所欲
 
