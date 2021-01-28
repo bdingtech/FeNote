@@ -20,6 +20,8 @@ description: 关于技术、机器、战争、时间、性、宗教、文学
 
 {% page-ref page="qian-duan-fang-fa-lun/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md" %}
 
+{% page-ref page="qian-duan-fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md" %}
+
 {% page-ref page="css/he-mo-xing-na-xie-shi.md" %}
 
 {% page-ref page="javascript/javascript-de-shu-ju-lei-xing-yu-cao-zuo-fu.md" %}
