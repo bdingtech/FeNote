@@ -75,4 +75,5 @@
 ## 项目复盘与总结
 
 * [校园菌小程序「持续更新中...」](xiang-mu-fu-pan-yu-zong-jie/xiao-yuan-jun-xiao-cheng-xu.md)
+* [寒假每日总结&复盘](xiang-mu-fu-pan-yu-zong-jie/han-jia-mei-ri-zong-jie-fu-pan.md)
 
