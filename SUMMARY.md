@@ -60,6 +60,7 @@
 * [STAR 原则](qian-duan-fang-fa-lun/star-yuan-ze.md)
 * [2021互联网春招秋招那些事 持续更新中...](qian-duan-fang-fa-lun/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md)
 * [2021前端进击方法论](qian-duan-fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md)
+* [2021面向面试编程](qian-duan-fang-fa-lun/2021-mian-xiang-mian-shi-bian-cheng.md)
 
 ## 随心所欲
 
