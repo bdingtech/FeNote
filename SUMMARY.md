@@ -11,7 +11,7 @@
 * [CSS](css/README.md)
   * [盒模型那些事](css/he-mo-xing-na-xie-shi.md)
   * [说一说有多少种水平垂直居中方案](css/shuo-yi-shuo-you-duo-shao-zhong-shui-ping-chui-zhi-ju-zhong-fang-an.md)
-  * [画一个三角形？](css/hua-yi-ge-san-jiao-xing.md)
+  * [画一个三角形、梯形、扇形、圆形、椭圆？](css/hua-yi-ge-san-jiao-xing.md)
 * [JavaScript](javascript/README.md)
   * [原型和原型链](javascript/yuan-xing-he-yuan-xing-lian.md)
   * [由原型链来实现继承](javascript/yuan-xing-yu-yuan-xing-lian.md)
