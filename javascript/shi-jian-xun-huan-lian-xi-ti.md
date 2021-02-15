@@ -74,5 +74,9 @@ console.log(2)
 
 
 
+## 推荐资源
+
+1. [Promise微任务处理逻辑](https://www.bilibili.com/video/BV1eJ41177Rg?p=3)
+
 
 
