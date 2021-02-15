@@ -13,6 +13,7 @@
   * [说一说有多少种水平垂直居中方案](css/shuo-yi-shuo-you-duo-shao-zhong-shui-ping-chui-zhi-ju-zhong-fang-an.md)
   * [画一个三角形、梯形、扇形、圆形、椭圆？](css/hua-yi-ge-san-jiao-xing.md)
 * [JavaScript](javascript/README.md)
+  * [事件循环练习题](javascript/shi-jian-xun-huan-lian-xi-ti.md)
   * [你不知道的JavaScript——对象篇](javascript/ni-bu-zhi-dao-de-javascript-dui-xiang-pian.md)
   * [原型和原型链](javascript/yuan-xing-he-yuan-xing-lian.md)
   * [由原型链来实现继承](javascript/yuan-xing-yu-yuan-xing-lian.md)
