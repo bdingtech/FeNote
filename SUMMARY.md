@@ -87,4 +87,5 @@
 * [网络篇-TCP](bi-shi-mian-shi/wang-luo-pian.md)
 * [数据结构与算法篇](bi-shi-mian-shi/shu-ju-jie-gou-yu-suan-fa-pian.md)
 * [CSS篇](bi-shi-mian-shi/css-pian.md)
+* [JavaScript 篇](bi-shi-mian-shi/javascript-pian.md)
 
