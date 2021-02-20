@@ -31,6 +31,14 @@
   * [浏览器安全漫谈](liu-lan-qi/liu-lan-qi-an-quan-man-tan.md)
   * [浏览器是如何存储数据与回收垃圾的 ？](liu-lan-qi/liu-lan-qi-shi-ru-he-cun-chu-shu-ju-yu-hui-shou-la-ji-de.md)
 
+## 笔试面试
+
+* [网络篇-HTTP](bi-shi-mian-shi/wang-luo-pian-http.md)
+* [网络篇-TCP](bi-shi-mian-shi/wang-luo-pian.md)
+* [数据结构与算法篇](bi-shi-mian-shi/shu-ju-jie-gou-yu-suan-fa-pian.md)
+* [CSS篇](bi-shi-mian-shi/css-pian.md)
+* [JavaScript 篇](bi-shi-mian-shi/javascript-pian.md)
+
 ## 前端安全 <a id="wang-luo-an-quan"></a>
 
 ---
@@ -80,12 +88,4 @@
 
 * [校园菌小程序「持续更新中...」](xiang-mu-fu-pan-yu-zong-jie/xiao-yuan-jun-xiao-cheng-xu.md)
 * [寒假每日总结&复盘](xiang-mu-fu-pan-yu-zong-jie/han-jia-mei-ri-zong-jie-fu-pan.md)
-
-## 笔试面试
-
-* [网络篇-HTTP](bi-shi-mian-shi/wang-luo-pian-http.md)
-* [网络篇-TCP](bi-shi-mian-shi/wang-luo-pian.md)
-* [数据结构与算法篇](bi-shi-mian-shi/shu-ju-jie-gou-yu-suan-fa-pian.md)
-* [CSS篇](bi-shi-mian-shi/css-pian.md)
-* [JavaScript 篇](bi-shi-mian-shi/javascript-pian.md)
 
