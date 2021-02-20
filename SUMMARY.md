@@ -6,86 +6,54 @@
 
 ---
 
-* [HTML](html/README.md)
-  * [HTML5 新增内容](html/untitled.md)
+* [JavaScript](javascript/README.md)
+  * [数组和对象](javascript/shu-zu-he-dui-xiang.md)
+  * [作用域和闭包](javascript/zuo-yong-yu-he-bi-bao.md)
+  * [变量类型和类型转换](javascript/bian-liang-lei-xing-he-lei-xing-zhuan-huan.md)
+  * [原型链和继承](javascript/yuan-xing-he-yuan-xing-lian.md)
+  * [事件循环EventLoop](javascript/shi-jian-xun-huan-lian-xi-ti.md)
+  * [DOM](javascript/script-yuan-su-yu-dom-shu-gou-jian-de-zu-sai.md)
 * [CSS](css/README.md)
   * [盒模型那些事](css/he-mo-xing-na-xie-shi.md)
-  * [说一说有多少种水平垂直居中方案](css/shuo-yi-shuo-you-duo-shao-zhong-shui-ping-chui-zhi-ju-zhong-fang-an.md)
   * [画一个三角形、梯形、扇形、圆形、椭圆？](css/hua-yi-ge-san-jiao-xing.md)
-* [JavaScript](javascript/README.md)
-  * [事件循环练习题](javascript/shi-jian-xun-huan-lian-xi-ti.md)
-  * [你不知道的JavaScript——对象篇](javascript/ni-bu-zhi-dao-de-javascript-dui-xiang-pian.md)
-  * [原型和原型链](javascript/yuan-xing-he-yuan-xing-lian.md)
-  * [由原型链来实现继承](javascript/yuan-xing-yu-yuan-xing-lian.md)
-  * [for...in 和 for...of 有什么区别？](javascript/for...in-he-for...of-you-shen-me-qu-bie.md)
-  * [forEach 和 map 的区别](javascript/foreach-he-map-de-qu-bie.md)
-  * [常用数组遍历和对象遍历方法【待补充】](javascript/shu-zu-de-bian-li-yi-ji-dui-xiang-de-bian-li.md)
-  * [为什么 {} !== {} ?](javascript/wei-shen-me.md)
-  * [如何判断对象为空 ？【待补充】](javascript/ru-he-pan-duan-dui-xiang-wei-kong.md)
-  * [JavaScript 的数据类型与操作符](javascript/javascript-de-shu-ju-lei-xing-yu-cao-zuo-fu.md)
-  * [undefinde 和 null 有什么区别？](javascript/undefinde-he-null-you-shen-me-qu-bie.md)
-  * [script 元素与 DOM 数构建的阻塞](javascript/script-yuan-su-yu-dom-shu-gou-jian-de-zu-sai.md)
-* [TypeScript](typescript-1/README.md)
-  * [TypeScript：进入类型的世界](typescript-1/typescript.md)
+* [HTML](html/README.md)
+  * [HTML5 新增内容](html/untitled.md)
+* [TypeScript](typescript-1.md)
 * [浏览器](liu-lan-qi/README.md)
+  * [一个数据包的旅行——从浏览器到操作系统](liu-lan-qi/yi-ge-shu-ju-bao-de-lv-hang-cong-liu-lan-qi-dao-cao-zuo-xi-tong.md)
+  * [SameSite 那些事](liu-lan-qi/samesite-na-xie-shi.md)
   * [浏览器安全漫谈](liu-lan-qi/liu-lan-qi-an-quan-man-tan.md)
   * [浏览器是如何存储数据与回收垃圾的 ？](liu-lan-qi/liu-lan-qi-shi-ru-he-cun-chu-shu-ju-yu-hui-shou-la-ji-de.md)
+* [数据结构与算法](shu-ju-jie-gou-yu-suan-fa/README.md)
+  * [大O表示法](shu-ju-jie-gou-yu-suan-fa/shou-mo-shou-ling-ji-chu-ru-men-suan-fa-shen-me-shi-daobiao-shi-fa.md)
+  * [排序](shu-ju-jie-gou-yu-suan-fa/pai-xu.md)
+* [网络](wang-luo/README.md)
+  * [HTTP](wang-luo/http.md)
+  * [TCP](wang-luo/tcp.md)
+  * [进击吧！5G!](wang-luo/5g.md)
 
-## 笔试面试
+## 其他技术 <a id="qu-kuai-lian"></a>
 
-* [网络篇-HTTP](bi-shi-mian-shi/wang-luo-pian-http.md)
-* [网络篇-TCP](bi-shi-mian-shi/wang-luo-pian.md)
-* [数据结构与算法篇](bi-shi-mian-shi/shu-ju-jie-gou-yu-suan-fa-pian.md)
-* [CSS篇](bi-shi-mian-shi/css-pian.md)
-* [JavaScript 篇](bi-shi-mian-shi/javascript-pian.md)
+* [比特币](qu-kuai-lian/bi-te-bi-yi-zhong-ji-yu-p2p-wang-luo-de-zhi-fu-jie-suan-xi-tong.md)
 
-## 前端安全 <a id="wang-luo-an-quan"></a>
+## 前端成长 <a id="qian-duan-fang-fa-lun"></a>
 
----
-
-* [SameSite 那些事](samesite-na-xie-shi.md)
-
-## 计算机网络
-
----
-
-* [iptables & 防火墙 基础知识](iptables-fang-huo-qiang-ji-chu-zhi-shi.md)
-* [一个数据包的旅行——从浏览器到操作系统](yi-ge-shu-ju-bao-de-lv-hang-cong-liu-lan-qi-dao-cao-zuo-xi-tong.md)
-* [进击吧！5G!](5g.md)
-* [内网穿透神器 ZeroTier 使用教程](nei-wang-chuan-tou-shen-qi-zerotier-shi-yong-jiao-cheng.md)
-
-## 算法
-
-* [排序](suan-fa/pai-xu.md)
-* [手摸手零基础入门算法-什么是大O表示法 ？](suan-fa/shou-mo-shou-ling-ji-chu-ru-men-suan-fa-shen-me-shi-daobiao-shi-fa.md)
-
-## 区块链
-
-* [比特币——一种基于 P2P 网络的支付结算系统](qu-kuai-lian/bi-te-bi-yi-zhong-ji-yu-p2p-wang-luo-de-zhi-fu-jie-suan-xi-tong.md)
-
-## 前端相对论 <a id="qian-duan-fang-fa-lun"></a>
-
-* [2020 年前端面试复习](qian-duan-fang-fa-lun/2020-nian-qian-duan-mian-shi-fu-xi.md)
-* [前端菜鸡的自我修养](qian-duan-fang-fa-lun/qian-duan-cai-ji-de-zi-wo-xiu-yang.md)
-* [前端职业规划——写给年轻的前端韭菜们](qian-duan-fang-fa-lun/qian-duan-zhi-ye-gui-hua-xie-gei-nian-qing-de-qian-duan-jiu-cai-men.md)
-* [STAR 原则](qian-duan-fang-fa-lun/star-yuan-ze.md)
-* [2021互联网春招秋招那些事 持续更新中...](qian-duan-fang-fa-lun/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md)
-* [2021前端进击方法论](qian-duan-fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md)
-* [2021面向面试编程](qian-duan-fang-fa-lun/2021-mian-xiang-mian-shi-bian-cheng.md)
-
-## 随心所欲
-
-* [半年度总结](sui-xin-suo-yu/ban-nian-du-zong-jie.md)
-* [地球最后的夜晚](sui-xin-suo-yu/di-qiu-zui-hou-de-ye-wan.md)
-* [构建规范的前端工作流与生态体系](sui-xin-suo-yu/xiang-mu-liu-cheng-guan-li-yu-kong-zhi.md)
-* [ID / IC 卡基本原理介绍与门禁卡 DIY](sui-xin-suo-yu/id-ic-ka-ji-ben-yuan-li-jie-shao-yu-men-jin-ka-diy.md)
+* [笔试面试](qian-duan-fang-fa-lun/bi-shi-mian-shi/README.md)
+  * [2021互联网春招秋招那些事 持续更新中...](qian-duan-fang-fa-lun/bi-shi-mian-shi/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md)
+  * [2020 年前端面试复习](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020-nian-qian-duan-mian-shi-fu-xi.md)
+* [方法论](qian-duan-fang-fa-lun/fang-fa-lun/README.md)
+  * [2021前端进击方法论](qian-duan-fang-fa-lun/fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md)
+  * [前端菜鸡的自我修养](qian-duan-fang-fa-lun/fang-fa-lun/qian-duan-cai-ji-de-zi-wo-xiu-yang.md)
+* [职业规划](qian-duan-fang-fa-lun/zhi-ye-gui-hua/README.md)
+  * [前端职业规划——写给年轻的前端韭菜们](qian-duan-fang-fa-lun/zhi-ye-gui-hua/qian-duan-zhi-ye-gui-hua-xie-gei-nian-qing-de-qian-duan-jiu-cai-men.md)
+* [年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/README.md)
+  * [寒假每日总结&复盘](qian-duan-fang-fa-lun/nian-du-zong-jie/han-jia-mei-ri-zong-jie-fu-pan.md)
+  * [2020 半年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/ban-nian-du-zong-jie.md)
+  * [2019 年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/2019-nian-du-zong-jie.md)
+* [项目总结](qian-duan-fang-fa-lun/xiang-mu-zong-jie/README.md)
+  * [STAR 原则](qian-duan-fang-fa-lun/xiang-mu-zong-jie/star-yuan-ze.md)
 
 ## 公众号 & 博客推荐
 
 * [知名前端人物](gong-zhong-hao-bo-ke-tui-jian/zhi-ming-qian-duan-ren-wu.md)
-
-## 项目复盘与总结
-
-* [校园菌小程序「持续更新中...」](xiang-mu-fu-pan-yu-zong-jie/xiao-yuan-jun-xiao-cheng-xu.md)
-* [寒假每日总结&复盘](xiang-mu-fu-pan-yu-zong-jie/han-jia-mei-ri-zong-jie-fu-pan.md)
 

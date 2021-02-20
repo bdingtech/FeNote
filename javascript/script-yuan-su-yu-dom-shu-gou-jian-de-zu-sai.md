@@ -7,7 +7,7 @@ tags:
   - JavaScript
 ---
 
-# script 元素与 DOM 数构建的阻塞
+# DOM
 
 ## script元素
 
