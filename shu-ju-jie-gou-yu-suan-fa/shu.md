@@ -7,6 +7,14 @@ Js中没有树，但是可以用Object和Array构建树
 树的常用操作：深度/广度优先**搜索**、先中后**遍历**
 
 ```javascript
+     4
+   /   \
+  2     7
+ / \   / \
+1   3 6   9
+```
+
+```javascript
 {
     value:'zhejiang',
     label:'zhejiang',
@@ -103,4 +111,6 @@ function bfs(tree){
     }
 }
 ```
+
+
 
