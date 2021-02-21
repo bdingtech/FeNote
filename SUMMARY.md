@@ -7,12 +7,12 @@
 ---
 
 * [JavaScript](javascript/README.md)
-  * [数组和对象](javascript/shu-zu-he-dui-xiang.md)
-  * [作用域和闭包](javascript/zuo-yong-yu-he-bi-bao.md)
   * [变量类型和类型转换](javascript/bian-liang-lei-xing-he-lei-xing-zhuan-huan.md)
+  * [作用域和闭包](javascript/zuo-yong-yu-he-bi-bao.md)
   * [原型链和继承](javascript/yuan-xing-he-yuan-xing-lian.md)
   * [事件循环EventLoop](javascript/shi-jian-xun-huan-lian-xi-ti.md)
   * [DOM](javascript/script-yuan-su-yu-dom-shu-gou-jian-de-zu-sai.md)
+* [数组和对象](shu-zu-he-dui-xiang.md)
 * [CSS](css/README.md)
   * [盒模型那些事](css/he-mo-xing-na-xie-shi.md)
   * [画一个三角形、梯形、扇形、圆形、椭圆？](css/hua-yi-ge-san-jiao-xing.md)
