@@ -66,5 +66,5 @@ description: 作为第一步，我们看看浏览器是如何把页面通过网�
 
 ![](../.gitbook/assets/image%20%2863%29.png)
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 

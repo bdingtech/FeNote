@@ -34,7 +34,7 @@ CSS的语法也很具有包容性，比如我们可以这样写`background-color
 
 之所以可以这样写，是因为浏览器最后还会对 CSS 代码进行标准化处理，`white` 和 `#ffffff`，最后都会被标准化为rgb格式`rgb(0,0,0)`
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 ### 计算每个DOM节点的样式
 
