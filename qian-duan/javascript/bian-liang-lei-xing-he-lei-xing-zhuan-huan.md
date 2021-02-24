@@ -38,9 +38,9 @@
   </tbody>
 </table>
 
-![   &#x57FA;&#x672C;&#x7C7B;&#x578B;&#x7684;&#x5B58;&#x50A8;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%282%29.png)
+![   &#x57FA;&#x672C;&#x7C7B;&#x578B;&#x7684;&#x5B58;&#x50A8;&#x65B9;&#x5F0F;](../../.gitbook/assets/image%20%282%29.png)
 
-![&#x5F15;&#x7528;&#x7C7B;&#x578B;&#x7684;&#x5B58;&#x50A8;&#x65B9;&#x5F0F;](../.gitbook/assets/image%20%283%29.png)
+![&#x5F15;&#x7528;&#x7C7B;&#x578B;&#x7684;&#x5B58;&#x50A8;&#x65B9;&#x5F0F;](../../.gitbook/assets/image%20%283%29.png)
 
 
 
@@ -72,7 +72,7 @@ typeof 返回的是 'Object' ，但是 null 却是一个基本类型，这其实
 
  所以，因为 {} 是一个对象，所以是一个引用类型，所以虽然创建了两个 {} ，但是他们是两个不同的对象，因为他们所**对应的地址不一样**
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 \*\*\*\*
 

@@ -4,8 +4,6 @@ description: 关于技术、机器、战争、时间、性、宗教、文学
 
 # 前言
 
-
-
 ![](.gitbook/assets/mo-ren-biao-ti-gong-zhong-hao-feng-mian-shou-tu-202011300.png)
 
 ## 关于我
@@ -22,11 +20,11 @@ description: 关于技术、机器、战争、时间、性、宗教、文学
 
 {% page-ref page="qian-duan-fang-fa-lun/fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md" %}
 
-{% page-ref page="css/he-mo-xing-na-xie-shi.md" %}
+{% page-ref page="qian-duan/css/he-mo-xing-na-xie-shi.md" %}
 
-##  想法
+## 想法
 
- 热爱生活，信仰技术
+热爱生活，信仰技术
 
 ## 联系我
 
@@ -45,14 +43,11 @@ description: 关于技术、机器、战争、时间、性、宗教、文学
 
 ![](.gitbook/assets/image%20%287%29.png)
 
-本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可，只要保持原作者署名和非商用，您可以自由地阅读、分享、修改本书  
-
+本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可，只要保持原作者署名和非商用，您可以自由地阅读、分享、修改本书
 
 > 大部分人类都是很悲催的动物，你比他强一点，对方会羡慕你；你比他强很多，对方会嫉妒你；你比他强很多很多，对方就会仰慕你。
-
+>
 > 有时候这种感觉没有人能了解 我暗自哭泣却不知道为了什么 这里的生活把我变得盲目 我凝视着却看不到自己的灵魂 这是一段很长很长的旅程 用尽所有的时光永无止境 我不停地奔跑、呼喊和追寻 在我的路上寻找生命的意义 ——《 我的路 》
-
+>
 > You Deserve A Better Life.
-
-
 

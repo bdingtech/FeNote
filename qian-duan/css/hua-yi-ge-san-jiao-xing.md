@@ -17,7 +17,7 @@
 }
 ```
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 然后我们可以通过给任意三边的颜色设置为 `transparent` 即可分别实现任一方向的三角形。
 
@@ -32,7 +32,7 @@
 }
 ```
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2830%29.png)
 
 ### 等边三角形
 
@@ -45,7 +45,7 @@
 }
 ```
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 ### 倒三角形
 
@@ -58,7 +58,7 @@
     }
 ```
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 ## 梯形
 
@@ -78,7 +78,7 @@
 }
 ```
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ### 普通梯形
 
@@ -91,7 +91,7 @@
   }
 ```
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 ## 扇形
 
@@ -110,7 +110,7 @@
   }
 ```
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### 普通扇形（利用border-radius）
 
@@ -123,7 +123,7 @@
   }
 ```
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 ### 普通扇形（利用border）
 
@@ -137,7 +137,7 @@
   }
 ```
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ## 圆形
 
@@ -150,13 +150,13 @@
 }
 ```
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 ## 椭圆
 
 椭圆依旧依赖 `border-radius` 属性，很多人应该都没注意过，border-radius 其实可以设置水平半径和垂直半径两个值 ，[参考MDN - border-radius](https://developer.mozilla.org/zh-CN/docs/Web/CSS/border-radius),具体用法为 `border-radius: 水平半径 / 垂直半径;`.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ```css
   .tiangle {
@@ -167,5 +167,5 @@
   }
 ```
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 

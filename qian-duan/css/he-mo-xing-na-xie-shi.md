@@ -66,7 +66,7 @@ html中的<img><input><textarea><select><object>都是置换元素，这些置�
 
 如果使用标准模型宽度 = 410px \(350 + 25 + 25 + 5 + 5\)，高度 = 210px \(150 + 25 + 25 + 5 + 5\)，padding 加 border 再加 content box。
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 ### IE盒模型
 

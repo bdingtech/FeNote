@@ -9,7 +9,7 @@ description: >-
 
 
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ## **语义：**新增语义化标签
 
@@ -25,7 +25,7 @@ description: >-
 * `<aside>`：侧边栏标签
 * `<footer>`：尾部标签
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ###  带来的好处
 
@@ -64,7 +64,7 @@ description: >-
 
 ####  类型
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
  更多详情请查看 MDN [https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/Input](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/Input)
 
