@@ -32,6 +32,9 @@ description: 关于技术、机器、战争、时间、性、宗教、文学
 
 对本书有任何疑问，欢迎联系我。
 
+![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%40bdingtech-brightgreen) [![contact me via gmail](https://img.shields.io/badge/Gmail-bdingtech%40gmail.com-red)](mailto:bdingtech@gmail.com)  
+[https://github.com/bdingtech](https://github.com/bdingtech)
+
 ## 其他
 
 ### 排版
