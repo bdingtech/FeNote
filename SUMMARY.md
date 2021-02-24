@@ -29,11 +29,11 @@
   * [HTTP](wang-luo/http.md)
   * [TCP](wang-luo/tcp.md)
   * [进击吧！5G!](wang-luo/5g.md)
-* [TypeScript](typescript-1.md)
-* [数据结构与算法](shu-ju-jie-gou-yu-suan-fa/README.md)
-  * [树](shu-ju-jie-gou-yu-suan-fa/shu.md)
-  * [大O表示法](shu-ju-jie-gou-yu-suan-fa/shou-mo-shou-ling-ji-chu-ru-men-suan-fa-shen-me-shi-daobiao-shi-fa.md)
-  * [排序](shu-ju-jie-gou-yu-suan-fa/pai-xu.md)
+* [TypeScript](typescript-1/README.md)
+  * [数据结构与算法](typescript-1/shu-ju-jie-gou-yu-suan-fa/README.md)
+    * [树](typescript-1/shu-ju-jie-gou-yu-suan-fa/shu.md)
+    * [大O表示法](typescript-1/shu-ju-jie-gou-yu-suan-fa/shou-mo-shou-ling-ji-chu-ru-men-suan-fa-shen-me-shi-daobiao-shi-fa.md)
+    * [排序](typescript-1/shu-ju-jie-gou-yu-suan-fa/pai-xu.md)
 * [数组和对象](shu-zu-he-dui-xiang.md)
 
 ## 其他技术 <a id="qu-kuai-lian"></a>
@@ -52,8 +52,9 @@
   * [前端职业规划——写给年轻的前端韭菜们](qian-duan-fang-fa-lun/zhi-ye-gui-hua/qian-duan-zhi-ye-gui-hua-xie-gei-nian-qing-de-qian-duan-jiu-cai-men.md)
 * [年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/README.md)
   * [寒假每日总结&复盘](qian-duan-fang-fa-lun/nian-du-zong-jie/han-jia-mei-ri-zong-jie-fu-pan.md)
-  * [2020 半年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/ban-nian-du-zong-jie.md)
   * [2019 年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/2019-nian-du-zong-jie.md)
+  * [2020 半年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/ban-nian-du-zong-jie.md)
+  * [2020 年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/2020-nian-du-zong-jie.md)
 * [项目总结](qian-duan-fang-fa-lun/xiang-mu-zong-jie/README.md)
   * [STAR 原则](qian-duan-fang-fa-lun/xiang-mu-zong-jie/star-yuan-ze.md)
 
