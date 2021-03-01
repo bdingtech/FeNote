@@ -24,7 +24,7 @@ console.log(obj.username) //pudding
 `set`属性的 setter 函数，如果没有 setter，则为 `undefined`。当属性值被修改时，会调用此函数。该方法接受一个参数（也就是被赋予的新值），会传入赋值时的 `this` 对象。  
 **默认为** [**`undefined`**](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/undefined)。
 
-这里所说的两大利器莫过于`setter`和`getter`了，在使用Object.defineProperty的同时，我们可以设置这两个属性，来对对象的读取设置进行
+这里所说的两大利器莫过于`setter`和`getter`了，在使用Object.defineProperty的同时，我们可以设置这两个属性，来对对象的读取和设置进行监控和拦截
 
 ```javascript
 let obj = {}
@@ -38,4 +38,36 @@ console.log(obj.username)
 //undefined
 
 ```
+
+## 简单的响应式模型
+
+有了上面的基础后，我们就可以根据这两个访问器属性来构建一个简单的响应式模型了
+
+```javascript
+function defineReactive(obj,key,value){
+    Object.defineProperty(obj,key,{
+        enumerable:true,
+        configurable:true,
+        get(){
+            console.log('读取')
+            return value
+        },
+        set(newValue){
+            console.log('设置')
+            if(newValue === value){
+                return
+            }
+            value = newValue
+        }
+    })
+}
+let person = {}
+defineReactive(person,'value',10)
+console.log(person.value)
+//读取
+//10
+
+```
+
+
 
