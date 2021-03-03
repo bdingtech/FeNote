@@ -1,4 +1,4 @@
-# 实现 call 和 apply
+# 实现 call
 
 ## 实现 call 方法
 
@@ -75,7 +75,7 @@ function myCall3(obj = window, ...args) {
   }
   let key = Symbol();
   obj[key] = this;
-  let result = obj[key](args);
+  let result = obj[key](...args);
   delete obj[key];
   return result
 }
