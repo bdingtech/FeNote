@@ -64,7 +64,7 @@ call 是 ES3 的语法，使用 ES6 的展开运算符，好像有点不讲武�
 
 ### 第三版-最终完整版
 
-兼容null，如果没有对call进行传值或者传的是null的话，this是指向window的，最后还要return结果
+兼容null，如果没有对call进行传值或者传的是null的话，this是指向window的，**最后还要return结果**
 
 #### ES6版本
 
