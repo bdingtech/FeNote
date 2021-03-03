@@ -74,5 +74,5 @@ typeof 返回的是 'Object' ，但是 null 却是一个基本类型，这其实
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-\*\*\*\*
+
 
