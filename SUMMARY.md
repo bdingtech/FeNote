@@ -13,6 +13,7 @@
   * [手撕代码](qian-duan/javascript/shou-si-dai-ma/README.md)
     * [实现 instanceof](qian-duan/javascript/shou-si-dai-ma/shi-xian-instanceof.md)
     * [实现 call](qian-duan/javascript/shou-si-dai-ma/shi-xian-call-he-apply.md)
+    * [实现 apply](qian-duan/javascript/shou-si-dai-ma/shi-xian-apply.md)
 * [CSS](qian-duan/css/README.md)
   * [盒模型那些事](qian-duan/css/he-mo-xing-na-xie-shi.md)
   * [画一个三角形、梯形、扇形、圆形、椭圆？](qian-duan/css/hua-yi-ge-san-jiao-xing.md)
