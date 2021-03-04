@@ -60,6 +60,8 @@ Function.prototype.bind3 = function(obj){
 }
 ```
 
+到这里基本功能就已经实现了，不过还有一些当做构造函数时的高级用法还没有实现，下面的参考有具体的过程
+
 > 补充
 >
 > 这种方式形如this.max\(...numArray\)，都上面的arguments转换一样，都是利用了语法的特性
@@ -69,4 +71,8 @@ Function.prototype.bind3 = function(obj){
 >     return Math.max.apply(null, numArray);
 > }
 > ```
+
+## 参考
+
+[JavaScript深入之bind的模拟实现 ](https://github.com/mqyqingfeng/Blog/issues/12)
 
