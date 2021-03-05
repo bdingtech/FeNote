@@ -23,6 +23,7 @@
 * [Vue](qian-duan/vue/README.md)
   * [变化侦测](qian-duan/vue/bian-hua-zhen-ce/README.md)
     * [01上帝的钥匙 Object.defineProperty](qian-duan/vue/bian-hua-zhen-ce/01-shang-di-de-yao-chi-object.defineproperty.md)
+  * [生命周期](qian-duan/vue/sheng-ming-zhou-qi.md)
 * [TypeScript](qian-duan/typescript-1.md)
 * [浏览器](qian-duan/liu-lan-qi/README.md)
   * [01说一说从输入URL到页面呈现发生了什么-网络篇](qian-duan/liu-lan-qi/01-shuo-yi-shuo-cong-shu-ru-url-dao-ye-mian-cheng-xian-fa-sheng-le-shen-me-wang-luo-pian.md)
