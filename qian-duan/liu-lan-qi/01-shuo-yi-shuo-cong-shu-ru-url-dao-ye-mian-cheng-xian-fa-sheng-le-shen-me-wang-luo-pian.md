@@ -34,7 +34,7 @@ description: 作为第一步，我们看看浏览器是如何把页面通过网�
 
 更多TCP细节详细内容参见
 
-{% page-ref page="../shu-zu-he-dui-xiang/wang-luo/tcp.md" %}
+{% page-ref page="../wang-luo/tcp.md" %}
 
 ## 5.发起HTTP请求
 

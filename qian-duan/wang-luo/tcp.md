@@ -26,7 +26,7 @@
 
 三次握手的过程的示意图如下：
 
-![](../../../.gitbook/assets/image%20%2844%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%2844%29%20%281%29.png)
 
 ### 四次挥手（ 关闭连接 ）
 
@@ -60,11 +60,11 @@ TCP 的连接的拆除需要发送四个包，因此称为四次挥手\(Four-way
 
 四次挥手的示意图如下：
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ## OSI 参考模型讲一下
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ### **1.物理层**
 
