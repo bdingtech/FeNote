@@ -56,6 +56,7 @@
 * [笔试面试](qian-duan-fang-fa-lun/bi-shi-mian-shi/README.md)
   * [2021互联网春招秋招那些事 持续更新中...](qian-duan-fang-fa-lun/bi-shi-mian-shi/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md)
   * [2020 年前端面试复习](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020-nian-qian-duan-mian-shi-fu-xi.md)
+  * [2020.3.12腾讯一面](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.12-teng-xun-yi-mian.md)
 * [方法论](qian-duan-fang-fa-lun/fang-fa-lun/README.md)
   * [2021前端进击方法论](qian-duan-fang-fa-lun/fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md)
   * [前端菜鸡的自我修养](qian-duan-fang-fa-lun/fang-fa-lun/qian-duan-cai-ji-de-zi-wo-xiu-yang.md)
