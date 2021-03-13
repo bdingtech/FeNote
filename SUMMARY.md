@@ -60,6 +60,7 @@
 * [方法论](qian-duan-fang-fa-lun/fang-fa-lun/README.md)
   * [2021前端进击方法论](qian-duan-fang-fa-lun/fang-fa-lun/2021-qian-duan-jin-ji-fang-fa-lun.md)
   * [前端菜鸡的自我修养](qian-duan-fang-fa-lun/fang-fa-lun/qian-duan-cai-ji-de-zi-wo-xiu-yang.md)
+  * [JS刷题总结](qian-duan-fang-fa-lun/fang-fa-lun/js-shua-ti-zong-jie.md)
 * [职业规划](qian-duan-fang-fa-lun/zhi-ye-gui-hua/README.md)
   * [前端职业规划——写给年轻的前端韭菜们](qian-duan-fang-fa-lun/zhi-ye-gui-hua/qian-duan-zhi-ye-gui-hua-xie-gei-nian-qing-de-qian-duan-jiu-cai-men.md)
 * [年度总结](qian-duan-fang-fa-lun/nian-du-zong-jie/README.md)
