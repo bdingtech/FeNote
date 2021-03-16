@@ -57,7 +57,7 @@
   * [2021互联网春招秋招那些事 持续更新中...](qian-duan-fang-fa-lun/bi-shi-mian-shi/hu-lian-wang-chun-zhao-qiu-zhao-na-xie-shi-chi-xu-geng-xin-zhong-....md)
   * [2020 年前端面试复习](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020-nian-qian-duan-mian-shi-fu-xi.md)
   * [2020.3.12腾讯一面](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.12-teng-xun-yi-mian.md)
-  * [2020.3.16 腾讯wxg一面](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.16-teng-xun-wxg-yi-mian.md)
+  * [2020.3.16 腾讯wxg一面\(75min\)](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.16-teng-xun-wxg-yi-mian.md)
   * [3.13 美团笔试 赛码](qian-duan-fang-fa-lun/bi-shi-mian-shi/3.13-mei-tuan-bi-shi-sai-ma.md)
   * [3.13 富途 牛客](qian-duan-fang-fa-lun/bi-shi-mian-shi/3.13-fu-tu-niu-ke.md)
 * [方法论](qian-duan-fang-fa-lun/fang-fa-lun/README.md)
