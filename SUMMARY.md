@@ -50,7 +50,10 @@
 ## 其他技术 <a id="qu-kuai-lian"></a>
 
 * [比特币](qu-kuai-lian/bi-te-bi-yi-zhong-ji-yu-p2p-wang-luo-de-zhi-fu-jie-suan-xi-tong.md)
-* [小程序技术](qu-kuai-lian/xiao-cheng-xu-ji-shu.md)
+* [小程序技术](qu-kuai-lian/xiao-cheng-xu-ji-shu/README.md)
+  * [双线程模型](qu-kuai-lian/xiao-cheng-xu-ji-shu/shuang-xian-cheng-mo-xing.md)
+  * [通讯原理](qu-kuai-lian/xiao-cheng-xu-ji-shu/tong-xun-yuan-li.md)
+  * [启动流程](qu-kuai-lian/xiao-cheng-xu-ji-shu/qi-dong-liu-cheng.md)
 
 ## 前端成长 <a id="qian-duan-fang-fa-lun"></a>
 
