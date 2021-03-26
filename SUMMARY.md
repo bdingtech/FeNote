@@ -5,6 +5,7 @@
 ## 前端基础篇 <a id="qian-duan"></a>
 
 * [JavaScript](qian-duan/javascript/README.md)
+  * [数组和对象](qian-duan/javascript/shu-zu-he-dui-xiang.md)
   * [变量类型和类型转换](qian-duan/javascript/bian-liang-lei-xing-he-lei-xing-zhuan-huan.md)
   * [作用域和闭包](qian-duan/javascript/zuo-yong-yu-he-bi-bao.md)
   * [原型链和继承](qian-duan/javascript/yuan-xing-he-yuan-xing-lian.md)
@@ -45,11 +46,11 @@
     * [03未来的HTTP/3](qian-duan/wang-luo/http/03-wei-lai-de-http3.md)
   * [TCP](qian-duan/wang-luo/tcp.md)
   * [进击吧！5G!](qian-duan/wang-luo/5g.md)
-* [数组和对象](qian-duan/shu-zu-he-dui-xiang.md)
 
 ## 其他技术 <a id="qu-kuai-lian"></a>
 
 * [比特币](qu-kuai-lian/bi-te-bi-yi-zhong-ji-yu-p2p-wang-luo-de-zhi-fu-jie-suan-xi-tong.md)
+* [小程序技术](qu-kuai-lian/xiao-cheng-xu-ji-shu.md)
 
 ## 前端成长 <a id="qian-duan-fang-fa-lun"></a>
 
