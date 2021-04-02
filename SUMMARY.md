@@ -62,7 +62,7 @@
   * [2020 年前端面试复习](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020-nian-qian-duan-mian-shi-fu-xi.md)
   * [2020.3.12 腾讯一面（50min）](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.12-teng-xun-yi-mian.md)
   * [2020.3.16 腾讯wxg一面\(75min\)](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.16-teng-xun-wxg-yi-mian.md)
-  * [2020.3.23 腾讯二面（30min）【凉】](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.23-teng-xun-er-mian-30min-liang.md)
+  * [2020.3.23 腾讯wxg二面（30min）【凉】](qian-duan-fang-fa-lun/bi-shi-mian-shi/2020.3.23-teng-xun-er-mian-30min-liang.md)
   * [笔试](qian-duan-fang-fa-lun/bi-shi-mian-shi/bi-shi/README.md)
     * [3.13 富途 牛客](qian-duan-fang-fa-lun/bi-shi-mian-shi/bi-shi/3.13-fu-tu-niu-ke.md)
     * [3.13 美团笔试 赛码](qian-duan-fang-fa-lun/bi-shi-mian-shi/bi-shi/3.13-mei-tuan-bi-shi-sai-ma.md)
