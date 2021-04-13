@@ -6,7 +6,7 @@ description: 腾讯csig二面的时候问到了Map和普通对象的区别，现
 
 ## Map
 
-**`Map`** 对象保存键值对，并且能够记住键的原始插入顺序**。任何值\(对象或者**[**原始值**](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)**\) 都可以作为一个键**或一个值。
+Map 类似于对象，key值不限于字符串，成员值唯一。
 
 ### 存取操作
 
