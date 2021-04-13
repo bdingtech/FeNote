@@ -63,3 +63,76 @@ myMap.get(function() {}); // undefined, 因为keyFunc !== function () {}
 
 基本上，如果你要往对象上添加数据，又不想干扰垃圾回收机制，就可以使用 WeakMap。
 
+### 与Map的区别
+
+WeakMap 与 Map 的区别:
+
+1. WeakMap 只接受对象作为键名（null除外），不接受其他类型的值作为键名
+2. WeakMap的键名所指向的对象，不计入垃圾回收机制
+3. WeakMap 没有遍历操作
+
+### 创建
+
+```javascript
+const wm = new WeakMap();
+const key = {foo: 1};
+wm.set(key, 2);
+```
+
+#### 可用方法
+
+`get()`、`set()`、`has()`、`delete()`
+
+### 使用场景
+
+**1. 避免内存泄露**
+
+常用于以Dom节点作为键名。一旦这个 DOM 节点删除，该状态就会自动消失，不存在内存泄漏风险。
+
+```javascript
+let myWeakmap = new WeakMap();
+
+myWeakmap.set(
+  document.getElementById('logo'),
+  {timesClicked: 0})
+;
+
+document.getElementById('logo').addEventListener('click', function() {
+  let logoData = myWeakmap.get(document.getElementById('logo'));
+  logoData.timesClicked++;
+}, false);
+```
+
+**2. 部署私有属性**
+
+作为私有属性，如果删除实例，它们也就随之消失，不会造成内存泄漏。
+
+```javascript
+const _counter = new WeakMap();
+const _action = new WeakMap();
+
+class Countdown {
+  constructor(counter, action) {
+    _counter.set(this, counter);
+    _action.set(this, action);
+  }
+  dec() {
+    let counter = _counter.get(this);
+    if (counter < 1) return;
+    counter--;
+    _counter.set(this, counter);
+    if (counter === 0) {
+      _action.get(this)();
+    }
+  }
+}
+
+const c = new Countdown(2, () => console.log('DONE'));
+
+c.dec()
+c.dec()
+// DONE
+```
+
+
+
