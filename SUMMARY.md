@@ -16,6 +16,8 @@
     * [实现 call](qian-duan/javascript/shou-si-dai-ma/shi-xian-call-he-apply.md)
     * [实现 apply](qian-duan/javascript/shou-si-dai-ma/shi-xian-apply.md)
     * [实现bind](qian-duan/javascript/shou-si-dai-ma/shi-xian-bind.md)
+* [ECMAScript6](qian-duan/ecmascript6/README.md)
+  * [Untitled](qian-duan/ecmascript6/untitled.md)
 * [CSS](qian-duan/css/README.md)
   * [盒模型那些事](qian-duan/css/he-mo-xing-na-xie-shi.md)
   * [画一个三角形、梯形、扇形、圆形、椭圆？](qian-duan/css/hua-yi-ge-san-jiao-xing.md)
