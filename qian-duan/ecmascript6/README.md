@@ -4,7 +4,7 @@ description: >-
   JavaScript 语言可以用来编写复杂的大型应用程序，成为企业级开发语言。
 ---
 
-# ECMAScript6
+# ECMAScript 6
 
 ![](../../.gitbook/assets/image%20%28115%29.png)
 
