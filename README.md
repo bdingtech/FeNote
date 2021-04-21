@@ -4,7 +4,15 @@ description: 无知才无畏
 
 # 前言
 
+
+
 ![](.gitbook/assets/mo-ren-biao-ti-gong-zhong-hao-feng-mian-shou-tu-202011300.png)
+
+
+
+{% hint style="danger" %}
+因 gitbook 编辑器体验过于糟糕，目前准备弃坑转向 Notion（4.21）
+{% endhint %}
 
 ## 关于我
 
