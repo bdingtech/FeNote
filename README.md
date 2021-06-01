@@ -12,6 +12,8 @@ description: 无知才无畏
 
 {% hint style="danger" %}
 因 gitbook 编辑器体验过于糟糕，目前准备弃坑转向 Notion（4.21）
+
+[欢迎访问新blog](https://bding.fun)
 {% endhint %}
 
 ## 关于我
